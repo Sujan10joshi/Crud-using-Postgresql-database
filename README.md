@@ -1,0 +1,2 @@
+Create Read Update and Delete or simply CRUD operation which means a user can create data, read the data, update the data, or delete the data.
+In this project, I created a crud operation for a student enrollment system in which users can add new student details like name, email, and password. After that, the added student will be shown to the same page with the entered details. If the user wants to change the data of the student, he/she simply can click on the edit button. If the user wants to delete any data of the student, he/she can simply click on the delete button.
